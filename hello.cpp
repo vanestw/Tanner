@@ -1,9 +1,12 @@
 #include <iostream>
 
-using namespce std;
+using namespace std;
 
 int main() {
- cout << "fuck you" << endl; 
+ cout << "fuck you" << endl;
 
- return 0
+ cout << "Tanner was here" << endl;
+
+
+ return 0;
 }
