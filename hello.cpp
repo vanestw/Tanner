@@ -10,5 +10,7 @@ int main() {
     for(size_t i = 0; i < 10; i++){
         fuckYou.emplace_back("fuck you").at(i);
     }
+
+    // WOOOOOOO WHAT IS GIT AND TANNED TANNER IN THE FLAME FLANNER
 }
 
